@@ -49,7 +49,7 @@ A **7-step sequential workflow** built in Make.com, triggered automatically ever
 
 ### 🔵 Step 1 — Make.com Workflow
 
-![Make.com Workflow](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Flowstack%20Solutions%20%20complete%20workflow.jpg)
+![Make.com Workflow](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Flowstack%20Solutions%20complete%20workflow.jpg)
 
 *Complete 7-module automation workflow in Make.com — all modules active and confirmed running*
 
@@ -66,7 +66,7 @@ A **7-step sequential workflow** built in Make.com, triggered automatically ever
 
 ### 🟡 Step 2 — CRM Integration: Airtable
 
-![Airtable CRM](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/AIRTABLE_CRM-Updated.jpg)
+![Airtable CRM](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/AIRTABLE%20CRM-Updated.jpg)
 
 *Airtable CRM showing automatically created client records — fully populated by automation with zero manual data entry*
 
@@ -76,7 +76,7 @@ Every form submission automatically creates a structured CRM record capturing th
 
 ### 🟢 Step 3 — Analytics Dashboard: Airtable Interface
 
-![Airtable Dashboard](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Airtable_Interface_screen-new.jpeg)
+![Airtable Dashboard](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Airtable%20Interface%20screen-new.jpeg)
 
 *Live Airtable Client Onboarding Dashboard — 10 clients onboarded via automation, published April 2026*
 
@@ -86,7 +86,7 @@ A live analytics dashboard showing total clients onboarded, client status breakd
 
 ### 🔵 Step 4 — Client Workspace: Google Drive
 
-![Google Drive](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Google_drive.jpg)
+![Google Drive](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Google%20drive.jpg)
 
 *Google Drive — automatically created and named client workspaces for each new client*
 
@@ -96,7 +96,7 @@ The automation simultaneously generates a dedicated Google Drive folder named af
 
 ### 🔴 Step 5 — Welcome Email: Gmail
 
-![Welcome Email](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Email_Notifciation.jpg)
+![Welcome Email](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Email%20Notifciation.jpg)
 
 *Branded welcome email — dynamically personalised with client name, company, project type and start date*
 
@@ -106,7 +106,7 @@ Within seconds of form submission, the client receives a professionally designed
 
 ### 🟣 Step 6 — Internal Notification: Slack
 
-![Slack Notification](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Slack_notice-_new.jpg)
+![Slack Notification](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Slack%20notice-%20new.jpg)
 
 *Slack #new-client-alerts channel — real-time automated notifications for every new client onboarding*
 
