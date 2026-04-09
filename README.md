@@ -1,4 +1,4 @@
-# Make.com Automated Client Onboarding — FlowStack Solutions
+# Make.com Automated Client Onboarding: FlowStack Solutions
 
 > *"From form submission to fully configured client workspace in under 2 minutes — fully automated, zero manual effort."*
 
@@ -49,7 +49,7 @@ A **7-step sequential workflow** built in Make.com, triggered automatically ever
 
 ### 🔵 Step 1 — Make.com Workflow
 
-![Make.com Workflow](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Flowstack%20Solutions%20complete%20workflow.jpg)
+![Make.com Workflow](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Flowstack%20Solutions%20%20complete%20workflow.jpg)
 
 *Complete 7-module automation workflow in Make.com — all modules active and confirmed running*
 
