@@ -36,22 +36,20 @@ Before automation, the FlowStack team was spending **2 to 3 hours manually onboa
 - Manually creating CRM records in Airtable
 - Setting up Google Drive folders for each client
 - Writing and sending personalised welcome emails
-- Notifying the internal team via Slack or email
+- Notifying the internal team via Slack
 - Verifying data accuracy across all systems
-
-This process was slow, inconsistent, and completely dependent on human memory — creating a poor first impression and a constant administrative burden.
 
 ---
 
 ## ✅ The Solution: Complete Automation Workflow
 
-A **7-step sequential workflow** was built in Make.com, triggered automatically every 15 minutes. All modules are confirmed active and running in production.
+A **7-step sequential workflow** built in Make.com, triggered automatically every 15 minutes. All modules confirmed active and running in production.
 
 ---
 
-### 🔵 The Make.com Workflow
+### 🔵 Step 1 — Make.com Workflow
 
-![Make.com Workflow](./Flowstack_Solutions__complete_workflow.jpg)
+![Make.com Workflow](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Flowstack%20Solutions%20%20complete%20workflow.jpg)
 
 *Complete 7-module automation workflow in Make.com — all modules active and confirmed running*
 
@@ -66,59 +64,53 @@ A **7-step sequential workflow** was built in Make.com, triggered automatically 
 
 ---
 
-### 🟡 CRM Integration — Airtable
+### 🟡 Step 2 — CRM Integration: Airtable
 
-![Airtable CRM](./AIRTABLE_CRM-Updated.jpg)
+![Airtable CRM](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/AIRTABLE_CRM-Updated.jpg)
 
-*Airtable CRM showing automatically created client records — fully populated by the automation with zero manual data entry*
+*Airtable CRM showing automatically created client records — fully populated by automation with zero manual data entry*
 
-Every form submission automatically creates a structured CRM record capturing the client's name, email, company, project type, start date, acquisition source, notes, status, Drive folder URL and onboarding timestamp — **all without a single manual keystroke.**
-
----
-
-### 🟢 Analytics Dashboard — Airtable Interface
-
-![Airtable Dashboard](./Airtable_Interface_screen-new.jpeg)
-
-*Live Airtable Client Onboarding Dashboard — 10 clients onboarded via automation, published April 8, 2026*
-
-A live analytics dashboard was built within Airtable's Interface Designer showing:
-
-- **Total clients onboarded** — live KPI counter (currently 10)
-- **Client status breakdown** — bar chart by pipeline stage
-- **Clients by project type** — demand analysis by service
-- **How clients found us** — acquisition channel tracking
-- **Monthly onboarding trend** — growth momentum over time
+Every form submission automatically creates a structured CRM record capturing the client's name, email, company, project type, start date, acquisition source, status and Drive folder URL — **all without a single manual keystroke.**
 
 ---
 
-### 🔵 Client Workspace — Google Drive
+### 🟢 Step 3 — Analytics Dashboard: Airtable Interface
 
-![Google Drive](./Google_drive.jpg)
+![Airtable Dashboard](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Airtable_Interface_screen-new.jpeg)
 
-*Google Drive Client Onboarding folder — automatically created, named workspaces for each client*
+*Live Airtable Client Onboarding Dashboard — 10 clients onboarded via automation, published April 2026*
 
-The moment a client record is created, the automation simultaneously generates a **dedicated Google Drive folder** named after the client — ready to receive contracts, briefs, assets and project files from Day 1. Each folder is automatically linked back to the Airtable CRM record.
-
----
-
-### 🔴 Welcome Email — Gmail
-
-![Welcome Email](./Email_Notifciation.jpg)
-
-*Branded welcome email received by client "Victory Moses" — dynamically populated with their project details*
-
-Within seconds of form submission, the client receives a **professionally designed, fully branded HTML welcome email** personalised with their name, company, project type and start date. Every client feels individually cared for — before the first call even happens.
+A live analytics dashboard showing total clients onboarded, client status breakdown, project type demand, acquisition channel tracking and monthly growth trends — all updating automatically.
 
 ---
 
-### 🟣 Internal Notification — Slack
+### 🔵 Step 4 — Client Workspace: Google Drive
 
-![Slack Notification](./Slack_notice-_new.jpg)
+![Google Drive](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Google_drive.jpg)
 
-*Slack #new-client-alerts channel — real-time automated notifications for new client onboardings*
+*Google Drive — automatically created and named client workspaces for each new client*
 
-Simultaneously with the welcome email, the automation fires an internal notification to the **#new-client-alerts** Slack channel with the client's name, company and project type — so the team is always ready before the first kickoff call.
+The automation simultaneously generates a dedicated Google Drive folder named after each client — linked directly back to their Airtable CRM record with a single click.
+
+---
+
+### 🔴 Step 5 — Welcome Email: Gmail
+
+![Welcome Email](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Email_Notifciation.jpg)
+
+*Branded welcome email — dynamically personalised with client name, company, project type and start date*
+
+Within seconds of form submission, the client receives a professionally designed, fully branded HTML welcome email. Every client feels individually cared for before the first call even happens.
+
+---
+
+### 🟣 Step 6 — Internal Notification: Slack
+
+![Slack Notification](https://raw.githubusercontent.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation/main/Slack_notice-_new.jpg)
+
+*Slack #new-client-alerts channel — real-time automated notifications for every new client onboarding*
+
+Simultaneously with the welcome email, the automation fires an internal Slack notification with the client's name, company and project type so the team is always ready before the first kickoff call.
 
 ---
 
@@ -137,7 +129,7 @@ Simultaneously with the welcome email, the automation fires an internal notifica
 
 ### Annual ROI Projection
 
-| Volume | Hours Saved | Value (£30/hr) | Total Annual Value |
+| Volume | Hours Saved | Value @ £30/hr | Total Annual Value |
 |--------|-------------|----------------|-------------------|
 | 10 clients/yr | 17 hours | £500 | ~£1,200 |
 | 25 clients/yr | 42 hours | £1,250 | ~£3,250 |
@@ -166,12 +158,6 @@ Simultaneously with the welcome email, the automation fires an internal notifica
 - ✅ Real-time Slack notification system for internal team alerts
 - ✅ Live analytics dashboard built with Airtable Interface Designer
 - ✅ Scalable system design with zero marginal cost per additional client
-
----
-
-## 📁 Project Report
-
-A full technical case study and ROI analysis report is available on request.
 
 ---
 
